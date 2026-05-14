@@ -1,6 +1,5 @@
 # About Project -> Movies List
 
-check out at https://movies-list-akshay-baiplawat.netlify.app/
 ## Overview
 The Movie List project is a dynamic and user-friendly website designed for movie enthusiasts to search and explore detailed information about various movies and web series. The application leverages the OMDB API to provide comprehensive data, ensuring an engaging user experience.
 
